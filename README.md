@@ -1,3 +1,3 @@
 pyEQ
 ====
-![Screenshot](https://github.com/twxyz/pyEQ/master/screenshot.PNG)
+![Screenshot](https://raw.github.com/twxyz/pyEQ/master/screenshot.PNG)
